@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
+- 👌  2022 Goals: Collaborate with other burundian devellopeps
 - ⚡ Fun fact: I love to play
 
 ### Connect with me:
