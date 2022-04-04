@@ -2,7 +2,9 @@
 
 ## I'm a  Developer, and Teacher!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning 
+-  ## JAVASCRIPT : IONIC 👌
+-  ## PHP : SYMFONY 🎶🎶🎶
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 👌  2022 Goals: Collaborate with other burundian devellopers
