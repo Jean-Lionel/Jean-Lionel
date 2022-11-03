@@ -79,3 +79,6 @@
 [instagram]: https://www.instagram.com/nijeanlionel/
 [linkedin]: https://www.linkedin.com/in/jean-lionel-630985ab/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+
+<a href="http://www.github.com/Jean-Lionel"><img width=100% src="https://activity-graph.herokuapp.com/graph?username=Jean-Lionel&bg_color=fff&color=000&line=59F&point=36A&area_color=59F&area=true&hide_border=false&custom_title=My%20GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
