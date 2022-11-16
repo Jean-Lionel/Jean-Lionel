@@ -1,10 +1,10 @@
 #<h1>Hi</h1> there, I'm JEAN LIONEL NININAHAZWE 👋👋 👋
 
-## I'm a  Developer, and Teacher!!
+## I'm a  Developer, and Teacher at DUKORE TECH !!
 
-- 🌱 I’m currently learning 
--  ## JAVASCRIPT : IONIC 👌
--  ## PHP : SYMFONY 🎶🎶🎶
+- 🌱 I’m currently using 
+-  ## JAVASCRIPT : VUE JS 👌
+-  ## PHP : Laravel 🔶
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 👌  2022 Goals: Collaborate with other burundian devellopers
