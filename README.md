@@ -1,6 +1,10 @@
 #<h1>Hi</h1> there, I'm JEAN LIONEL NININAHAZWE 👋👋 👋
 
-## I'm a  Developer, and Teacher at DUKORE TECH !!
+## I'm a Burundian 
+- 🌱 I’m currently leaning
+    - Dart 
+    - [<img align="left" alt=" Flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />] Flutter 
+    - [<img align="left" alt=" Flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]  Firebase
 
 - 🌱 I’m currently using 
 -  ## JAVASCRIPT : VUE JS 👌
@@ -80,5 +84,8 @@
 [linkedin]: https://www.linkedin.com/in/jean-lionel-630985ab/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 
-<a href="http://www.github.com/Jean-Lionel"><img width=100% src="https://activity-graph.herokuapp.com/graph?username=Jean-Lionel&bg_color=fff&color=000&line=59F&point=36A&area_color=59F&area=true&hide_border=false&custom_title=My%20GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+[![I'm developer i have no life](https://github-readme-activity-graph.cyclic.app/graph?username=Jean-Lionel&bg_color=09121a&color=fdfcfd&line=f2f2f2&point=00ff2a&area=true&hide_border=true)](https://github.com/Jean-Lionel/github-readme-activity-graph)
+
+
+</a>
 
