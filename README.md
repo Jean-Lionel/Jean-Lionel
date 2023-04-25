@@ -1,10 +1,10 @@
-#<h1>Hi</h1> there, I'm JEAN LIONEL NININAHAZWE 👋👋 👋
+#<h1>Hey </h1>  I'm JEAN LIONEL NININAHAZWE 👋👋 👋
 
 ## I'm a Burundian 
 - 🌱 I’m currently leaning
-    - Dart 
-    - [<img align="left" alt=" Flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />] Flutter 
-    - [<img align="left" alt=" Flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]  Firebase
+    - 🤳 Dart 
+    - 🤖 Flutter 
+    - 🤖 Firebase
 
 - 🌱 I’m currently using 
 -  ## JAVASCRIPT : VUE JS 👌
