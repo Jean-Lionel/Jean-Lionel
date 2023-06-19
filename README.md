@@ -1,7 +1,7 @@
 #<h1>Hey </h1>  I'm JEAN LIONEL NININAHAZWE 👋👋 👋
 
 ## I'm a Burundian 
-- 🌱 I’m currently leaning
+- 🌱 I’m currently learning
     - 🤳 Dart 
     - 🤖 Flutter 
     - 🤖 Firebase
