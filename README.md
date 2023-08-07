@@ -1,4 +1,5 @@
 #<h1>Hey </h1>  I'm JEAN LIONEL NININAHAZWE 👋👋 👋
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Jean-Lionel)
 
 ## I'm a Burundian 
 - 🌱 I’m currently learning
