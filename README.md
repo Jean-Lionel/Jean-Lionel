@@ -1,19 +1,40 @@
-#<h1>Hey </h1>  I'm JEAN LIONEL NININAHAZWE 👋👋 👋
+
+
+# Jean Lionel Nininahazwe 👨‍💻
+
+Full Stack Developer specializing in Backend Development with extensive experience in Healthcare Information Systems and Telecommunications.
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Jean-Lionel)
 
-## I'm a Burundian 
-- 🌱 I’m currently learning
-    - 🤳 Dart 
-    - 🤖 Flutter 
-    - 🤖 Firebase
+## Technical Expertise 🛠️
+- 💻 **Backend Development**: PHP, Laravel, RESTful APIs
+- 📊 **Data Analysis**: Google Data Studio, Power BI (in progress)
+- 📑 **Microsoft Excel**: VBA Scripting Expert & Trainer
+- 🏥 **Healthcare Systems**: DHIS2, OpenClinic
+- 🔄 **API Integration**: Specialized in creating scripts for system integration and API communication
 
-- 🌱 I’m currently using 
--  ## JAVASCRIPT : VUE JS 👌
--  ## PHP : Laravel 🔶
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- 👌  2022 Goals: Collaborate with other burundian devellopers
-- ⚡ Fun fact: I love to play
+## Professional Experience 💼
+- 🏥 Healthcare Information Systems Specialist
+- 📱 Former Telecommunications Expert at ECONET WIRELESS BURUNDI
+- 👨‍🏫 Technical Trainer specializing in VBA and Excel automation
+
+## Core Competencies 🎯
+- 🏗️ Backend Architecture Design
+- 🔗 Healthcare Systems Integration
+- 📈 Data Analytics and Visualization
+- 🔌 API Development and Integration
+- 📚 Technical Training and Mentoring
+
+Currently expanding expertise in Business Intelligence tools while continuing to develop innovative healthcare IT solutions.
+
+### Let's Connect! 🤝
+- 💬 Open to collaboration on healthcare technology projects and data analysis initiatives
+- 📫 Available for consulting and technical training opportunities
+- 🌐 Building the future of healthcare technology, one line of code at a time
+- ⚡ Fun fact: Passionate about transforming healthcare through technology
+
+---
+🔍 *Currently exploring new opportunities and innovative projects in healthcare IT*
 
 ### Connect with me:
 
